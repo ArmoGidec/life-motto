@@ -9,7 +9,9 @@ let you = {
         console.log("It's so sad(((");
         return false;
     },
-    can_do: {}
+    can_do: {
+        it: undefined
+    }
 }
 
 if (you.can_dream(it) === true) {
