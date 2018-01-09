@@ -1,4 +1,4 @@
-let it: string = "Anything";
+let it: string = "anything";
 
 let you = {
     can_dream: function (dream: string) {
@@ -10,7 +10,7 @@ let you = {
         return false;
     },
     can_do: {
-        it: undefined
+        anything: undefined
     }
 }
 
